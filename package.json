@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ignore-erb-mogix",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Ignore ERB expressions in ESLint",
   "keywords": [
     "eslint",
